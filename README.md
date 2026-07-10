@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total: **7** problems
+Total: **8** problems
 
 | # | Title | Topic | Difficulty | File |
 |---|-------|-------|------------|------|
@@ -11,3 +11,4 @@ Total: **7** problems
 | 5 | resgtregh | Array | Medium | [resgtregh.py](resgtregh.py) |
 | 6 | hi | Array | Medium | [hi.py](hi.py) |
 | 7 | howdy | Array | Medium | [howdy.py](howdy.py) |
+| 8 | sdfgsedbsdfb | Array | Medium | [sdfgsedbsdfb.py](sdfgsedbsdfb.py) |
